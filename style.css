@@ -78,7 +78,7 @@ body{
   background-size: cover;
   color: White;
   font-family: Arial,Helvectia,sans-serif;
-  line-height:1rem; 
+  line-height:2rem; 
 
     
 }
@@ -103,11 +103,11 @@ img{
 p{
   font-size: 1.2em;  
   font-family: 'Comfortaa', cursive; 
-
+ line-height:2rem;
 }
 
 li{
-  font-size:1rem;
+  font-size:2rem;
   font-family: 'Comfortaa', cursive;
   padding-top: 50px;
 }
