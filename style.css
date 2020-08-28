@@ -21,11 +21,11 @@ h2 {
   margin-top: 20px;
   border-radius: 10px;
   line-height:2rem;
-
+  transition: 1.5s;
 }
 
 .box-1:hover{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2); 
   background-color:rgba(94, 243, 8, 0.904);
   transition: 1.5s;
  
@@ -33,17 +33,16 @@ h2 {
   
 }
 .box-2:hover{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
  background-color:blueviolet;
   transition: 1.5s;
   
   
 }
 
-
 h3 {
   font-family: 'Pacifico', cursive;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
   padding: 20px;
   margin-top: 20px;
   border-radius: 10px;
@@ -51,7 +50,7 @@ h3 {
 }
 
 .box-2{
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
   padding: 10px;
   margin-top: 20px;
   border-radius: 10px;
