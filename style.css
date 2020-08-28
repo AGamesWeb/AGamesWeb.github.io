@@ -19,7 +19,9 @@ h2 {
   font-size: 1rem;
   padding: 10px;
   margin-top: 20px;
-  border-radius: 10px
+  border-radius: 10px;
+  line-height:2rem;
+
 }
 
 .box-1:hover{
@@ -55,6 +57,7 @@ h3 {
   border-radius: 10px;
   background-color:rgb(226, 43, 156);
   transition: 1.5s;
+  line-height:2rem;
 }
 
 
@@ -91,6 +94,7 @@ div{
   padding: 1px;
   font-family: 'Comfortaa', cursive; 
   border-radius: 1em;
+  line-height:2rem;
 }
 
 img{
@@ -110,6 +114,7 @@ li{
   font-size:2rem;
   font-family: 'Comfortaa', cursive;
   padding-top: 50px;
+  line-height:2rem;
 }
 
 
