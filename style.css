@@ -24,7 +24,7 @@ h2 {
 
 .box-1:hover{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
-  background-color:rgb(226, 131, 43);
+  background-color:rgba(243, 121, 8, 0.904);
   transition: 1.5s;
  
   
